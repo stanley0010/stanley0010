@@ -55,5 +55,7 @@ Welcome to my profile! I am a year 2 Computer Engineering student in HKUST. Look
 ## 💪 My Projects
 
 Pinocchio - Online forum that helps HKUST students to talk about mental health difficulties anonymously
+<br>
 Heylo System - Anonymous Live reaction system for students in e-classroom during COVID-19
+<br>
 Halo Passport - Blockchain-based COVID-19 Travel Passport(Prototype)
