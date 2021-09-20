@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanleychan0010/)
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
-Welcome to my profile! I am a year 1 student in HKUST and a freelance Full-stack Web & App developer. 
+Welcome to my profile! I am a year 2 Computer Engineering student in HKUST. Looking for internship opportunities now! 
 
 <br>
 
@@ -13,7 +13,7 @@ Welcome to my profile! I am a year 1 student in HKUST and a freelance Full-stack
 - 💙 Passionate about social innovation with technology!
   <br>\(check out my projects below!\)
 - 🌸 Love working with people and meeting new friends from different cultures
-- 📗 Learning cybersecurity
+- 📗 Want to pursuit a career in Cybersecurity and AML-related domains
 
 <br>
 
@@ -43,8 +43,9 @@ Welcome to my profile! I am a year 1 student in HKUST and a freelance Full-stack
 
 ## 🔥 Interests
 
-- Blockchain
 - Cybersecurity
+- Blockchain
+- Social Innovation with technology
 - Web and App development
 - Automating daily routine with bots
 
