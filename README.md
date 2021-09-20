@@ -33,11 +33,11 @@ Welcome to my profile! I am a year 2 Computer Engineering student in HKUST. Look
 <br>
 
 **UI/UX**
-
+<div style="white-space:nowrap;">
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 <img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=for-the-badge&logo=adobexd&logoColor=white"/>
 <img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/>
-
+</div>
 <br>
 <br>
 
