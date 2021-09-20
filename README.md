@@ -20,7 +20,7 @@ Welcome to my profile! I am a year 2 Computer Engineering student in HKUST. Look
 ## 💫 Skills
 
 **Frontend & Backend**
-
+<div style="white-space:nowrap;">
 <img alt="JavaScript badge" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height=28/>
 <img alt="React badge" src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" height=28/>
 <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -29,7 +29,7 @@ Welcome to my profile! I am a year 2 Computer Engineering student in HKUST. Look
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
 <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-
+</div>
 <br>
 
 **UI/UX**
