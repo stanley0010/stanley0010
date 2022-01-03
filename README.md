@@ -9,7 +9,7 @@ Welcome to my profile! I am a year 2 Computer Engineering student in HKUST. Look
 
 ## 📌 A few quick facts
 
-- 🧑‍💻 Participated in industry-standard projects development
+- 🧑‍💻 Participated in industry-standard projects development as a freelacer.
 - 💙 Passionate about social innovation with technology!
   <br>\(check out my projects below!\)
 - 🌸 Love working with people and meeting new friends from different cultures
@@ -18,6 +18,8 @@ Welcome to my profile! I am a year 2 Computer Engineering student in HKUST. Look
 <br>
 
 ## 💫 Skills
+
+These are some full-stack web/app development skills. I am currently seeking to develop a career in Cybersecurity, which will be mentioned in the next section. 
 
 **Frontend & Backend**
 <div style="white-space:nowrap;">
@@ -43,19 +45,22 @@ Welcome to my profile! I am a year 2 Computer Engineering student in HKUST. Look
 
 ## 🔥 Interests
 
-- Cybersecurity
+- Cybersecurity(studying red/blue team techniques and mindsets; seeking to get a OSCP certificate)
 - Blockchain
 - Social Innovation with technology
-- Web and App development
 - Automating daily routine with bots
 
 <br>
+
+## 🔥 Paper I am reading
+- Forensic analysis of Matrix protocol and Riot.im application
+<br> https://www.sciencedirect.com/science/article/pii/S2666281721000159
+- Google Project Zero's paper into NSO's zero click iMessage exploit
+<br> https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html?m=1
+
 <br>
 
 ## 💪 My Projects
 
 Pinocchio - Online forum that helps HKUST students to talk about mental health difficulties anonymously
-<br>
-Heylo System - Anonymous Live reaction system for students in e-classroom during COVID-19
-<br>
-Halo Passport - Blockchain-based COVID-19 Travel Passport(Prototype)
+<br> https://pinocchio.sight.ust.hk/
