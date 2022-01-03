@@ -9,11 +9,11 @@ Welcome to my profile! I am a year 2 Computer Engineering student in HKUST. Look
 
 ## 📌 A few quick facts
 
+- 📗 Want to pursuit a career in Cybersecurity and AML-related domains
 - 🧑‍💻 Participated in industry-standard projects development as a freelacer.
 - 💙 Passionate about social innovation with technology!
   <br>\(check out my projects below!\)
 - 🌸 Love working with people and meeting new friends from different cultures
-- 📗 Want to pursuit a career in Cybersecurity and AML-related domains
 
 <br>
 
