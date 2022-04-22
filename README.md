@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanleychan0010/)
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
-Welcome to my profile! I am a year 2 Computer Engineering student in HKUST. Looking for internship opportunities now! 
+Welcome to my profile! I am a year 2 Computer Engineering student in Hong Kong University of Science and Technology. Looking for internship opportunities now! 
 
 <br>
 
