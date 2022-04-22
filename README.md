@@ -56,15 +56,15 @@ Welcome to my profile! I am a year 2 Computer Engineering student in Hong Kong U
 
 ## 🔥 Paper I am reading
 - MITRE ATT&CK®: Design and Philosophy
-<br> https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiwqevz5qb3AhVLw4sBHdyZB3cQFnoECAUQAQ&url=https%3A%2F%2Fattack.mitre.org%2Fdocs%2FATTACK_Design_and_Philosophy_March_2020.pdf&usg=AOvVaw1RrBh5AZOMDxRGBPKvWo1a
+<br> https://attack.mitre.org/docs/ATTACK_Design_and_Philosophy_March_2020.pdf
 
 <br>
 
 ## 🔥 Paper I was reading
 - A Closer Look at the LAPSUS$ Data Extortion Group
-<br> https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiCs-3V5qb3AhWbyIsBHTkdDsMQFnoECBcQAQ&url=https%3A%2F%2Fkrebsonsecurity.com%2F2022%2F03%2Fa-closer-look-at-the-lapsus-data-extortion-group%2F&usg=AOvVaw2Cxy8KAKBeO9u71qQILUSD
+<br> https://krebsonsecurity.com/2022/03/a-closer-look-at-the-lapsus-data-extortion-group/
 - Operation Dream Job by Lazarus
-<br> https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiUkpG15qb3AhXgwosBHU7UC1EQFnoECAUQAQ&url=https%3A%2F%2Fresources.infosecinstitute.com%2Ftopic%2Fwhat-is-operation-dream-job-by-lazarus%2F&usg=AOvVaw1Klk5JoM2bpn0iV4NWfVmi
+<br> https://resources.infosecinstitute.com/topic/what-is-operation-dream-job-by-lazarus/
 - Forensic analysis of Matrix protocol and Riot.im application
 <br> https://www.sciencedirect.com/science/article/pii/S2666281721000159
 - Google Project Zero's paper into NSO's zero click iMessage exploit
@@ -74,5 +74,5 @@ Welcome to my profile! I am a year 2 Computer Engineering student in Hong Kong U
 
 ## 💪 My Projects
 
-Pinocchio - Online forum that helps HKUST students to talk about mental health difficulties anonymously
+Pinocchio - Online forum that helps students to talk about mental health difficulties anonymously
 <br> https://pinocchio.sight.ust.hk/
