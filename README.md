@@ -9,17 +9,19 @@ Welcome to my profile! I am a year 2 Computer Engineering student in HKUST. Look
 
 ## 📌 A few quick facts
 
-- 📗 Want to pursuit a career in Cybersecurity and AML-related domains
-- 🧑‍💻 Participated in industry-standard projects development as a freelacer.
+- 📗 Aspired to be a cybersecurity engineer devoted to protect clients/company's assets. Studying for OSCP now
+- 🧑‍💻 Participated in industry-standard projects development as a frontend development freelacer.
 - 💙 Passionate about social innovation with technology!
   <br>\(check out my projects below!\)
-- 🌸 Love working with people and meeting new friends from different cultures
+- 🌸 Passionate to work in a team and strong in communication. MBTI: ENFP
 
 <br>
 
 ## 💫 Skills
 
-These are some full-stack web/app development skills. I am currently seeking to develop a career in Cybersecurity, which will be mentioned in the next section. 
+**Cybersecurity**
+- Practiced pentesting skills such as reconnaissance, scanning and gaining access via vulnerabilities with Metasploit, nmap; exploited a WordPress vulnerability with reverse shell
+- Fundamental knowledge – forensics, networking, Linux system on OverTheWire and PicoCTF
 
 **Frontend & Backend**
 <div style="white-space:nowrap;">
@@ -46,13 +48,23 @@ These are some full-stack web/app development skills. I am currently seeking to 
 ## 🔥 Interests
 
 - Cybersecurity(studying red/blue team techniques and mindsets; seeking to get a OSCP certificate)
-- Blockchain
+- Blockchain and democracy
 - Social Innovation with technology
 - Automating daily routine with bots
 
 <br>
 
 ## 🔥 Paper I am reading
+- MITRE ATT&CK®: Design and Philosophy
+<br> https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiwqevz5qb3AhVLw4sBHdyZB3cQFnoECAUQAQ&url=https%3A%2F%2Fattack.mitre.org%2Fdocs%2FATTACK_Design_and_Philosophy_March_2020.pdf&usg=AOvVaw1RrBh5AZOMDxRGBPKvWo1a
+
+<br>
+
+## 🔥 Paper I was reading
+- A Closer Look at the LAPSUS$ Data Extortion Group
+<br> https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiCs-3V5qb3AhWbyIsBHTkdDsMQFnoECBcQAQ&url=https%3A%2F%2Fkrebsonsecurity.com%2F2022%2F03%2Fa-closer-look-at-the-lapsus-data-extortion-group%2F&usg=AOvVaw2Cxy8KAKBeO9u71qQILUSD
+- Operation Dream Job by Lazarus
+<br> https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiUkpG15qb3AhXgwosBHU7UC1EQFnoECAUQAQ&url=https%3A%2F%2Fresources.infosecinstitute.com%2Ftopic%2Fwhat-is-operation-dream-job-by-lazarus%2F&usg=AOvVaw1Klk5JoM2bpn0iV4NWfVmi
 - Forensic analysis of Matrix protocol and Riot.im application
 <br> https://www.sciencedirect.com/science/article/pii/S2666281721000159
 - Google Project Zero's paper into NSO's zero click iMessage exploit
