@@ -65,8 +65,6 @@ Welcome to my profile! I am a year 2 Computer Engineering student in Hong Kong U
 <br> https://krebsonsecurity.com/2022/03/a-closer-look-at-the-lapsus-data-extortion-group/
 - Operation Dream Job by Lazarus
 <br> https://resources.infosecinstitute.com/topic/what-is-operation-dream-job-by-lazarus/
-- Forensic analysis of Matrix protocol and Riot.im application
-<br> https://www.sciencedirect.com/science/article/pii/S2666281721000159
 - Google Project Zero's paper into NSO's zero click iMessage exploit
 <br> https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html?m=1
 
@@ -76,3 +74,5 @@ Welcome to my profile! I am a year 2 Computer Engineering student in Hong Kong U
 
 Pinocchio - Online forum that helps students to talk about mental health difficulties anonymously
 <br> https://pinocchio.sight.ust.hk/
+Dockerized-MySQL-and-VBA-practise
+<br> https://github.com/stanley0010/Dockerized-MySQL-and-VBA-practise
