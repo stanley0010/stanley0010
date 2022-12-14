@@ -10,7 +10,7 @@ I am a Year 3 Computer Engineering student (and minor in Business) in Hong Kong 
 
 ## 📌 A few quick fact
 
-- 🔐 Aspired to be a Penetration Tester who makes the world a little safer. Studying for OSCP now.
+- 🔐 Aspire to be a Penetration Tester who makes the world a little safer. Studying for OSCP now.
 - ⛳️ Play CTF, mainly focus in web and misc challenges. (Check my writeups [here](https://stanley-chan.gitbook.io/writeups-for-ctf-and-oscp-boxes/)!) 
 - 🧑‍💻 Participated in industry-standard projects as a software development trainee.
 - 🌸 Passionate to work in a team and strong in communication. MBTI: ENFJ
