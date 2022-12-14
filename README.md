@@ -9,8 +9,8 @@ I am a Year 3 Computer Engineering student (and minor in Business) in Hong Kong 
 
 ## 📌 A few quick fact
 
-- 📗 Aspired to be a Penetration Tester who makes the world a little safer. Studying for OSCP now.
-- ⛳️ Play CTF, mainly focus in web and misc challenges. (Check my writeups ![here](https://github.com/stanley0010/CTF-writeups)!) 
+- 🔐 Aspired to be a Penetration Tester who makes the world a little safer. Studying for OSCP now.
+- ⛳️ Play CTF, mainly focus in web and misc challenges. (Check my writeups [here](https://github.com/stanley0010/CTF-writeups)!) 
 - 🧑‍💻 Participated in industry-standard projects as a software development trainee.
 - 🌸 Passionate to work in a team and strong in communication. MBTI: ENFJ
 
@@ -19,7 +19,7 @@ I am a Year 3 Computer Engineering student (and minor in Business) in Hong Kong 
 **Cyber Defense Consulting Firm Intern**
 - Web app pentest (finance industry)
 - Thick client pentest (critical infrastucture)
-- Research and report to the whole team (research on IoT pentest ![here](https://stanley-chan.gitbook.io/iot-pentesting/))
+- Research and report to the whole team (research on IoT pentest [here](https://stanley-chan.gitbook.io/iot-pentesting/))
 
 **High School Coding Team Tutor**
 - Taught a bit about Design Thinking and app & web development
@@ -66,9 +66,7 @@ I am a Year 3 Computer Engineering student (and minor in Business) in Hong Kong 
 
 - Research on IoT Pentesting Methodology
 <br> https://stanley-chan.gitbook.io/iot-pentesting/
-
 - Contribution to a WebDAV scanner
 <br> https://github.com/stanley0010/davtest
-
 - Pinocchio - Online forum that helps students to talk about mental health difficulties anonymously
 <br> https://pinocchio.sight.ust.hk/
