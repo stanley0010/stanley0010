@@ -5,7 +5,7 @@
 
 Welcome to my profile! 
 
-I am a Year 3 Computer Engineering student (and minor in Business) in Hong Kong University of Science and Technology. 
+I am a Year 4 Computer Engineering student (and minor in Business) in Hong Kong University of Science and Technology. 
 
 
 ## 📌 A few quick fact
