@@ -10,9 +10,9 @@ I am a Year 4 Computer Engineering student (and minor in Business) in Hong Kong 
 
 ## 📌 A few quick fact
 
-- 🔐 Aspire to be a Penetration Tester who makes the world a little safer. Studying for OSCP now.
+- 🔐 Aspire to be a Cybersecurity Consultant who makes the world a little safer. Studying for OSCP now.
+- 🧑‍💻 Internship experience in two class-leading cybersecurity consulting firms in HK (mainly work on Pentest)
 - ⛳️ Play CTF, mainly focus in web and misc challenges. (Check my writeups [here](https://stanley-chan.gitbook.io/writeups-for-ctf-and-oscp-boxes/)!) 
-- 🧑‍💻 Participated in industry-standard projects as a software development trainee.
 - 🌸 Passionate to work in a team and strong in communication. MBTI: ENFJ
 
 ## 💼 Experiences
@@ -32,7 +32,7 @@ I am a Year 4 Computer Engineering student (and minor in Business) in Hong Kong 
 ## 💫 Technical Skills
 
 **Cybersecurity**
-- Offensive techniques: recon, use & fix public exploits, Privilege Escalation on Linux & Windows (everything covered in OSCP)
+- Offensive techniques: recon, use & fix public exploits, Privilege Escalation on Linux, Windows & AD (everything covered in OSCP)
 - Solved ~10 HackTheBox and VulnHub boxes
 - CTF: mainly web (xss, php injection, xxe, etc)
 
